@@ -1,6 +1,10 @@
 # file_reader
 
-A new Flutter project.
+A  Flutter project use to read files from internal storage and save them in shared preferances.
+
+![file](https://user-images.githubusercontent.com/24944117/206439650-8fbdbd6d-636b-4956-a77f-3da704a5e87d.jpg)
+
+
 
 ## Getting Started
 
